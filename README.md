@@ -25,9 +25,7 @@ I'm a **Computer Science Student**🎓 at  **[@PUC Minas](https://www.pucpcaldas
 - 👥 I’m looking for new friends.
 - 🎶 I ❤️  music, they can light me up.
 - 💬 Ask me about everything, if I don't know, we can learn together.
-- 🎉 Fun-Fact: I ❤️ Astronomy and Space <img src="https://emojis.slackmojis.com/emojis/images/1518001209/3505/spacex.jpg" width="30">
-
-
+- 🎉 Fun-Fact: I ❤️ Astronomy and Space 🚀✨
 
 <details> <br>
   
