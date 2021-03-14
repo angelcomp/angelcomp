@@ -21,4 +21,5 @@ Projeto final do curso focado na API da Nasa
 - [MarsGaze](https://github.com/MarsGaze/MarsGaze)
 
 ### Projetos pessoais:
-- [Dev.finance$ - Finanças Pessoais](https://github.com/angelcomp/app-maratona-discover)
+App de finanças Pessoais
+- [Dev.finance$](https://github.com/angelcomp/app-maratona-discover)
