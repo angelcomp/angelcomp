@@ -6,16 +6,16 @@
 
  No curso **Coders Mobile** oferecido pela Digital House:
 Aprendendo Kotlin e Programação Orientada a Objetos:
-- [Desafio 1 - Kotlin](https://github.com/angelcomp/Desafio-Integrador-1)
+- [Desafio 1 - apenas Kotlin](https://github.com/angelcomp/Desafio-Integrador-1)
  
 App para fixar os conceitos do Android Core:
-- [Desafio 2 - Android](https://github.com/angelcomp/Desafio-Integrador-2)
+- [Desafio 2](https://github.com/angelcomp/Desafio-Integrador-2)
    
 App para fixar os conceitos de Web Services
-- [Desafio 3 - Android](https://github.com/angelcomp/Desafio-Integrador-3)
+- [Desafio 3](https://github.com/angelcomp/Desafio-Integrador-3)
    
 App para fixar os conceitos de Banco de Dados
-- [Desafio 4 - Android](https://github.com/angelcomp/Desafio-Integrador-4)
+- [Desafio 4](https://github.com/angelcomp/Desafio-Integrador-4)
 
 Projeto final do curso focado na API da Nasa
 - [MarsGaze](https://github.com/MarsGaze/MarsGaze)
