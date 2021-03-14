@@ -23,9 +23,8 @@ Eu estudo **Ciência da Computação**🎓 na  **[@PUC Minas](https://www.pucpca
 - 💬 Me pergunte sobre qualquer coisa, se eu não souber, poderemos aprender juntos.
 - 🎉 Fun-Fact: Gosto de Astronomia, os planetas, estrelas e o Espaço 🚀✨
 
-<details> <br>
   
-### 🖥️ Meus projetos:
+## 🖥️ Meus projetos:
 - [Projetos Mobile](https://github.com/angelcomp/angelcomp/blob/main/mobile.md)
 - [Projetos da Faculdade](https://github.com/angelcomp/angelcomp/blob/main/faculdade.md)
 - [Projetos de aprendizado e cursos](https://github.com/angelcomp/angelcomp/blob/main/outros.md)
