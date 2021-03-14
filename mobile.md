@@ -1,14 +1,24 @@
 
+
 # Meus projetos desenvolvendo Mobile Android 📱
 
-<img width="490" height="270" src="https://media.giphy.com/media/lPQkB8sWAtVQexmHDb/giphy.gif" align=right>
+<img width="490" height="270" src="https://media.giphy.com/media/1BcSawJYHPjfHekFYe/giphy.gif" align=right>
 
-- No curso **Coders Mobile** oferecido pela Digital House:
-  - [Desafio 1 - Kotlin](https://github.com/angelcomp/Desafio-Integrador-1)
-  - [Desafio 2 - Android](https://github.com/angelcomp/Desafio-Integrador-2)
-  - [Desafio 3 - Android](https://github.com/angelcomp/Desafio-Integrador-3)
-  - [Desafio 4 - Android](https://github.com/angelcomp/Desafio-Integrador-4)
-  - [MarsGaze - Projeto final do curso](https://github.com/MarsGaze/MarsGaze)
+ No curso **Coders Mobile** oferecido pela Digital House:
+- Aprendendo Kotlin e Programação Orientada a Objetos:
+[Desafio 1 - Kotlin](https://github.com/angelcomp/Desafio-Integrador-1)
+ 
+- App para fixar os conceitos do Android Core:
+[Desafio 2 - Android](https://github.com/angelcomp/Desafio-Integrador-2)
+   
+-  App para fixar os conceitos de Web Services
+[Desafio 3 - Android](https://github.com/angelcomp/Desafio-Integrador-3)
+   
+-  App para fixar os conceitos de Banco de Dados
+[Desafio 4 - Android](https://github.com/angelcomp/Desafio-Integrador-4)
+
+-  Projeto final do curso focado na API da Nasa
+[MarsGaze](https://github.com/MarsGaze/MarsGaze)
 
 - Projetos pessoais:
-  - [App de Finanças](https://github.com/angelcomp/app-maratona-discover)
+[Dev.finance$ - Finanças Pessoais](https://github.com/angelcomp/app-maratona-discover)
