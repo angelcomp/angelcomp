@@ -8,7 +8,7 @@
   - [Desafio 2 - Android](https://github.com/angelcomp/Desafio-Integrador-2)
   - [Desafio 3 - Android](https://github.com/angelcomp/Desafio-Integrador-3)
   - [Desafio 4 - Android](https://github.com/angelcomp/Desafio-Integrador-4)
-  - [Projeto final do curso](https://github.com/MarsGaze/MarsGaze)
+  - [MarsGaze - Projeto final do curso](https://github.com/MarsGaze/MarsGaze)
 
 - Projetos pessoais:
   - [App de Finanças](https://github.com/angelcomp/app-maratona-discover)
