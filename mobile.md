@@ -6,7 +6,7 @@
 Aprendendo Kotlin e Programação Orientada a Objetos
 - [Desafio 1 - apenas Kotlin](https://github.com/angelcomp/Desafio-Integrador-1)
  
-<img width="490" height="270" src="https://media.giphy.com/media/1BcSawJYHPjfHekFYe/giphy.gif" align=right>
+<img width="490" src="https://media.giphy.com/media/1BcSawJYHPjfHekFYe/giphy.gif" align=right>
 
 App para fixar os conceitos do Android Core
 - [Desafio 2](https://github.com/angelcomp/Desafio-Integrador-2)
