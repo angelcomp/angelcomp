@@ -12,6 +12,7 @@ Eu estudo **Ciência da Computação**🎓 na  **[@PUC Minas](https://www.pucpca
 ## ⚡️ Alguns fatos:
 
 - 🔭 Eu estou no meu 3º período da Ciência da Computação { 2/4 anos }
+- <img width="490" height="270" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" align=right>
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Gosto de trabalhar com:
   -  🛠 Projetos com Arduino
   -   📱 Desenvolvimento Mobile Android
