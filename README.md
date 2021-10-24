@@ -9,7 +9,6 @@
 
 Eu estudo **Ciência da Computação**🎓 na  **[@PUC Minas](https://www.pucpcaldas.br)** e sou uma  **entusiasta da tecnologia!** 💻 😃  <br> Eu amo programar, aprender novas tecnologias e trabalhar com os amigos em vários projetos. <br> **#Always learning about everything** 🧠  <br/>
 
-<p><img width="490" height="270" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" align=right></p>
 ## 🖥️ Meus projetos:
 - [Projetos Mobile](https://github.com/angelcomp/angelcomp/blob/main/mobile.md)
 - [Projetos da Faculdade](https://github.com/angelcomp/angelcomp/blob/main/faculdade.md)
