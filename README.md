@@ -9,22 +9,7 @@
 
 Eu estudo **Ciência da Computação**🎓 na  **[@PUC Minas](https://www.pucpcaldas.br)** e sou uma  **entusiasta da tecnologia!** 💻 😃  <br> Eu amo programar, aprender novas tecnologias e trabalhar com os amigos em vários projetos. <br> **#Always learning about everything** 🧠  <br/>
 
-## ⚡️ Alguns fatos:
-
-- 🔭 Eu estou no meu 3º período da Ciência da Computação { 2/4 anos }
 - <img width="490" height="270" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" align=right>
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Gosto de trabalhar com:
-  -  🛠 Projetos com Arduino
-  -   📱 Desenvolvimento Mobile Android
-  - 💻 Desenvolvimento Web
-  - 🎨 Photoshop
-  - 🎬 Sony Vegas
-- 👥 Sempre a procura de novos amigos.
-- 🎶 Eu AMO  musica, elas são meu combustível diário.
-- 💬 Me pergunte sobre qualquer coisa, se eu não souber, poderemos aprender juntos.
-- 🎉 Fun-Fact: Gosto de Astronomia, os planetas, estrelas e o Espaço 🚀✨
-
-  
 ## 🖥️ Meus projetos:
 - [Projetos Mobile](https://github.com/angelcomp/angelcomp/blob/main/mobile.md)
 - [Projetos da Faculdade](https://github.com/angelcomp/angelcomp/blob/main/faculdade.md)
