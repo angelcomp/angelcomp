@@ -2,7 +2,7 @@
 
 # Meus projetos desenvolvendo Mobile Android 📱
 
- ## No curso **Coders Mobile** oferecido pela Digital House:
+ ## No curso **Coders Mobile** oferecido pela Digital House e Becas Santander:
 Aprendendo Kotlin e Programação Orientada a Objetos
 - [Desafio 1 - apenas Kotlin](https://github.com/angelcomp/Desafio-Integrador-1)
  
